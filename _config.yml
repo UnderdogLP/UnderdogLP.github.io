@@ -13,7 +13,11 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+<<<<<<< HEAD
 
+=======
+theme: cayman
+>>>>>>> d98fcea50ff88fc7c85c1958b84795d604160571
 # Site Settings
 locale                   : "en-US"
 title                    : "Site Title"
@@ -254,7 +258,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+<<<<<<< HEAD
 theme: cayman
+=======
+
+>>>>>>> d98fcea50ff88fc7c85c1958b84795d604160571
 
 # Defaults
 defaults:
@@ -268,4 +276,8 @@ defaults:
       read_time: true
       comments: # true
       share: true
+<<<<<<< HEAD
       related: true
+=======
+      related: true
+>>>>>>> d98fcea50ff88fc7c85c1958b84795d604160571
