@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <font color="blue">
+  <img src="https://www.desantisbreindel.com/wp-content/uploads/DB-Web-Work-R2-PGIM-1-1.jpg" alt="" height="200" width="500">
+  <h1>PGIM Real Estate: Global Reporting Initiative</h1>
+  </font>
+  
+<p>The Global Reporting Initiative is a report in which PGIM Real Estate can list and explain what </p>
+	<p>they are doing in terms of social, environmental, and governance.</p>
+
+
+</p>
+ <a id="skip-to-content" href="#content">Skip to the content.</a>
+	<p> PGIM Employees can report information to help complete this report. </p>
+	<p> 	Click here if you are an employee of PGIM Real Estate: </p>
+	<Property Managers can report information about their properties. </p>
+	<p> 	Click here if you are a Property Manager for PGIM Real Estate: </p>
+ 	<p> Stakeholders are important to this report, as they can let PGIM Real Estate know what topics they care about.</p>
+        <p>	Click here if you are a stakeholder of PGIM Real Estate: </p>  
+  
+</body>
+</html>
